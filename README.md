@@ -2,36 +2,49 @@
 
 <!--
 **johnend/johnend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
-[![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
-
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![Science is my jam](https://img.shields.io/badge/My%20Jam-Science-success?style=flat-square&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Science)
-
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
-[![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
-
-[![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Astro](https://img.shields.io/badge/JavaScript%20framework-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
-[![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![OpenTofu](https://img.shields.io/badge/Infrastructure--as--Code-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)](https://opentofu.org/)
 -->
+
+I'm a designer and engineer based in Edinburgh (Scotland), building full-stack
+web apps for FanDuel. I am obsessed with
+optimising my NeoVim config and terminal productivity.
+
+I prefer working on either Mac or Linux.
+
+### 🚀 Featured
+
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=johnend&repo=dots&theme=rose_pine)](https://github.com/johnend/dots)
+
+### Environment
+
+[![OS](https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/macOS%20WM-Aerospace-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nikitabobko.github.io/AeroSpace/guide)
+[![OS](https://img.shields.io/badge/OS-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![WM](https://img.shields.io/badge/Linux%20Wm-Sway-68751c?style=for-the-badge&logo=sway&logoColor=white)](https://swaywm.org)
+[![Distro](https://img.shields.io/badge/Distro-EndeavourOS-6e1ebf?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com)
+[![Terminal](https://img.shields.io/badge/Terminal-Ghostty-blue?style=for-the-badge&logo=ghostery&logoColor=white)](https://swaywm.org)
+[![Shell](https://img.shields.io/badge/Shell-Zsh-f15a24?style=for-the-badge&logo=zsh&logoColor=white)](https://zsh.org/)
+[![Editor](https://img.shields.io/badge/Editor-NeoVim-00195174?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/Typescript-719af4?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-139fcd?style=for-the-badge&logo=react&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-bf4f74?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-bf4080?style=for-the-badge&logo=sass&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ec7211?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white)
+![BuildKite](https://img.shields.io/badge/BuildKite-14cc80?style=for-the-badge&logo=buildkite&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Learning
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white)
+
+### Unnecessary stats
+
 ![johnend's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnend&show_icons=true&theme=rose_pine&rank_icon=github)
