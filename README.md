@@ -8,7 +8,7 @@ I'm a designer and engineer based in Edinburgh (Scotland), building full-stack
 web apps for FanDuel. I am obsessed with
 optimising my NeoVim config and terminal productivity.
 
-I prefer working on either Mac or Linux.
+I use Mac or Linux and do as much as I can in the terminal and with NeoVim.
 
 ### 🚀 Featured
 
