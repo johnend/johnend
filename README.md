@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![johnend's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnend&show_icons=true&theme=rose_pine)
-![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnenderby%2F?style=plastic&logo=linksys&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnenderby%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnenderby%2F?style=flat&logo=linksys&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnenderby%2F)
