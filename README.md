@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![OpenTofu](https://img.shields.io/badge/Infrastructure--as--Code-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)](https://opentofu.org/)
 -->
-![johnend's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnend&show_icons=true&theme=rose_pine)
+![johnend's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnend&show_icons=true&theme=rose_pine&rank_icon=github)
