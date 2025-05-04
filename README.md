@@ -4,11 +4,7 @@
 **johnend/johnend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a designer and engineer based in Edinburgh (Scotland), building full-stack
-web apps for FanDuel. I am obsessed with
-optimising my NeoVim config and terminal productivity.
-
-I use Mac or Linux and do as much as I can in the terminal and with NeoVim.
+I’m John, an Edinburgh-based software engineer and former product designer who traded design for code and never looked back. My first big win was turning a proof-of-concept component library into a cross-team staple at FanDuel, and ever since I’ve been obsessed with crafting clean, high-performance front-ends—perfecting my Neovim setup, ricing a full Linux dev environment on my trusty old Mac, and hopping between macOS and Linux for whatever task comes next. I’m a huge believer in the power of open source (my dotfiles are public for a reason!), and when I’m not tweaking my config you’ll find me chasing new deadlift PRs at the gym, hunting birdies on the golf course, or raising two wonderful kids alongside my wife. Let’s build something awesome!
 
 ### Environment
 
