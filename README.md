@@ -10,10 +10,6 @@ optimising my NeoVim config and terminal productivity.
 
 I use Mac or Linux and do as much as I can in the terminal and with NeoVim.
 
-### 🚀 Featured
-
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=johnend&repo=dots&theme=rose_pine)](https://github.com/johnend/dots)
-
 ### Environment
 
 [![OS](https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
@@ -44,6 +40,10 @@ I use Mac or Linux and do as much as I can in the terminal and with NeoVim.
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🚀 Featured
+
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=johnend&repo=dots&theme=rose_pine)](https://github.com/johnend/dots)
 
 ### Unnecessary stats
 
