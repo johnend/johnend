@@ -71,7 +71,7 @@ When I’m not tweaking my configs you’ll find me chasing new benchpress PRs i
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=johnend&repo=dots&theme=rose_pine)](https://github.com/johnend/dots)
 
-Why are my dotfiles featured? Well there's a lot of going on there, and if you a terminal based workflow there's almost certainly something you might find useful. I prefer to do as much as possible in the terminal, from playing music via `spotify-player` or managing my repos with `lazygit`.
+Why are my dotfiles featured? Well there's a lot of going on there, and if you like a terminal based workflow there's almost certainly something you might find useful. I prefer to do as much as possible in the terminal, from playing music via `spotify-player` or managing my repos with `lazygit`.
 
 My preferred colorschemes are Catppuccin and Rose Pine (usually a combination of both). I have a few others intalled for NeoVim but tend to stick with `roseprime` as it is a good contrast with Catppuccin when working in TMUX.
 
