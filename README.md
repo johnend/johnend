@@ -13,7 +13,7 @@ I’m John, an Edinburgh-based software engineer and former product designer who
 [![OS](https://img.shields.io/badge/OS-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![WM](https://img.shields.io/badge/Linux%20Wm-Sway-68751c?style=for-the-badge&logo=sway&logoColor=white)](https://swaywm.org)
 [![Distro](https://img.shields.io/badge/Distro-EndeavourOS-6e1ebf?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com)
-[![Terminal](https://img.shields.io/badge/Terminal-Ghostty-blue?style=for-the-badge&logo=ghostery&logoColor=white)](https://swaywm.org)
+[![Terminal](https://img.shields.io/badge/Terminal-Ghostty-blue?style=for-the-badge&logo=ghostery&logoColor=white)]([https://swaywm.org](https://ghostty.org/))
 [![Shell](https://img.shields.io/badge/Shell-Zsh-f15a24?style=for-the-badge&logo=zsh&logoColor=white)](https://zsh.org/)
 [![Editor](https://img.shields.io/badge/Editor-NeoVim-00195174?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
