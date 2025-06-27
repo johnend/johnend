@@ -32,7 +32,7 @@ I’m John, an Edinburgh-based software engineer and former product designer who
 ![git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Learning
-
+![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white)
