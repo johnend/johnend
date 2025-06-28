@@ -4,13 +4,13 @@
 **johnend/johnend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m John, an Edinburgh-based software engineer and product designer who made the change from design to code. To be honest there should be more roles that cover both product design and front end engineering, but that's a topic for a blog post. I hav built component libraries, contirbuted to front end projects, defined schemas for CMSs, and configured a fLinux environment.
+I’m John, an Edinburgh-based software engineer and product designer. I was a designer for around 10 years and made the move to engineering in 2021. To be honest there should be more roles that cover both product design and front end engineering, but that's a topic for a blog post. I have built component libraries, contirbuted to front end projects, defined schemas for CMSs, and configured a Linux environment.
 
-I like to do as much as possible in the terminal, and I daily drive Neovim both personally and for work.
+I like to do as much as possible in the terminal these days and I daily drive NeoVim both personally and for work.
 
-I’m a huge believer in open source software (check my dotfiles 😉).
+I’m a huge believer in open source software (check my ![dotfiles](https://github.com/johnend/dots) 😉).
 
-When I’m not tweaking my configs you’ll find me chasing new benchpress PRs in the gym, hunting birdies on the golf course, or raising two wonderful kids alongside my wife.
+When I’m not tweaking configs you’ll find me going after new benchpress PRs in the gym, chasing birdies on the golf course, or raising two wonderful kids alongside my wife.
 
 ### Environment
 
