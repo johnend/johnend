@@ -8,7 +8,7 @@ I’m John, an Edinburgh-based software engineer and product designer. I was a d
 
 I like to do as much as possible in the terminal these days and I daily drive NeoVim both personally and for work.
 
-I’m a huge believer in open source software (check my ![dotfiles](https://github.com/johnend/dots) 😉).
+I’m a huge believer in open source software (check my [dotfiles](https://github.com/johnend/dots) 😉).
 
 When I’m not tweaking configs you’ll find me going after new benchpress PRs in the gym, chasing birdies on the golf course, or raising two wonderful kids alongside my wife.
 
