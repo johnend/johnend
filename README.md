@@ -29,9 +29,9 @@ When I’m not tweaking configs you’ll find me going after new benchpress PRs 
 
 #### Design
 
-[![UI Design](https://img.shields.io/badge/UI-Figma-f24e1e?logo=figma&logoColor=white)](https://neovim.io/)
-[![Vector](https://img.shields.io/badge/Vector-Affinity%20Designer-124881?logo=affinitydesigner&logoColor=white)](https://neovim.io/)
-[![Photo](https://img.shields.io/badge/Photo-Affinity%20Photo-4e3188?logo=affinityphoto&logoColor=white)](https://neovim.io/)
+[![UI Design](https://img.shields.io/badge/UI-Figma-f24e1e?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Vector](https://img.shields.io/badge/Vector-Affinity%20Designer-124881?logo=affinitydesigner&logoColor=white)](https://affinity.serif.com/en-gb/designer/)
+[![Photo](https://img.shields.io/badge/Photo-Affinity%20Photo-4e3188?logo=affinityphoto&logoColor=white)](https://affinity.serif.com/en-gb/photo/)
 
 #### Front End
 
@@ -40,9 +40,9 @@ When I’m not tweaking configs you’ll find me going after new benchpress PRs 
 [![NextJs](https://img.shields.io/badge/NextJs-000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Styled Components](https://img.shields.io/badge/Styled%20Components-bf4f74?logo=styled-components&logoColor=white)](https://styled-components.com/)
 ![CSS](https://img.shields.io/badge/CSS-333?logo=css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-bf4080?logo=sass&logoColor=white)
-![storybook](https://img.shields.io/badge/Storybook-ff4785?logo=storybook&logoColor=white)
-![framer](https://img.shields.io/badge/Framer-0055ff?logo=framer&logoColor=white)
+[![SCSS](https://img.shields.io/badge/SCSS-bf4080?logo=sass&logoColor=white)](https://sass-lang.com/)
+[![storybook](https://img.shields.io/badge/Storybook-ff4785?logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![framer](https://img.shields.io/badge/Framer-0055ff?logo=framer&logoColor=white)](https://www.framer.com/)
 
 #### Infra
 
