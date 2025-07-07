@@ -21,7 +21,7 @@ When I’m not tweaking configs you’ll find me going after new benchpress PRs 
 [![Distro](https://img.shields.io/badge/Distro-EndeavourOS-6e1ebf?logo=endeavouros&logoColor=white)](https://endeavouros.com)
 
 [![Terminal](https://img.shields.io/badge/Terminal-Ghostty-blue?logo=ghostery&logoColor=white)](https://ghostty.org/)
-[![Multiplexer](https://img.shields.io/badge/Multiplexer-TMUX-1bb91f?logo=tmux&logoColor=white)](https://ghostty.org/)
+[![Multiplexer](https://img.shields.io/badge/Multiplexer-TMUX-1bb91f?logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
 [![Shell](https://img.shields.io/badge/Shell-Zsh-f15a24?logoColor=white)](https://zsh.org/)
 [![Editor](https://img.shields.io/badge/Editor-NeoVim-00195174?logo=neovim&logoColor=white)](https://neovim.io/)
 
