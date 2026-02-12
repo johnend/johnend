@@ -69,7 +69,7 @@ When I’m not tweaking configs you’ll find me going after new benchpress PRs 
 
 ### 🚀 Featured
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=johnend&repo=dots&theme=rose_pine)](https://github.com/johnend/dots)
+[Dotfiles](https://github.com/johnend/dots)
 
 Why are my dotfiles featured? Well there's a lot of going on there, and if you like a terminal based workflow there's almost certainly something you might find useful. I prefer to do as much as possible in the terminal, from playing music via `spotify-player` or managing my repos with `lazygit`.
 
