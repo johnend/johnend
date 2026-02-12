@@ -79,4 +79,4 @@ Take a look, and if there's anything useful in there for you, take it and make i
 
 ### Unnecessary stats
 
-![johnend's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnend&show_icons=true&theme=rose_pine&rank_icon=github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnend&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
