@@ -39,33 +39,33 @@ When I’m not tweaking configs you’ll find me going after new benchpress PRs 
 [![React](https://img.shields.io/badge/React-139fcd?logo=react&logoColor=white)](https://react.dev/)
 [![NextJs](https://img.shields.io/badge/NextJs-000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Styled Components](https://img.shields.io/badge/Styled%20Components-bf4f74?logo=styled-components&logoColor=white)](https://styled-components.com/)
-![CSS](https://img.shields.io/badge/CSS-333?logo=css&logoColor=white)
+[![CSS](https://img.shields.io/badge/CSS-333?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/SCSS-bf4080?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![storybook](https://img.shields.io/badge/Storybook-ff4785?logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![framer](https://img.shields.io/badge/Framer-0055ff?logo=framer&logoColor=white)](https://www.framer.com/)
 
 #### Infra
 
-![AWS](https://img.shields.io/badge/AWS-ec7211?logo=amazon-web-services&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7b42bc?logo=terraform&logoColor=white)
-![BuildKite](https://img.shields.io/badge/BuildKite-14cc80?logo=buildkite&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-ec7211?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7b42bc?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![BuildKite](https://img.shields.io/badge/BuildKite-14cc80?logo=buildkite&logoColor=white)](https://buildkite.com/)
 
 #### Other
 
-![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-cb171e?logo=yaml&logoColor=white)
-![Json](https://img.shields.io/badge/Json-000000?logo=json&logoColor=white)
-![git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white)
-![bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
-![yarn](https://img.shields.io/badge/yarn-2c8ebb?logo=yarn&logoColor=white)
-![npm](https://img.shields.io/badge/npm-cb3837?logo=npm&logoColor=white)
+[![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)](https://www.lua.org/)
+[![YAML](https://img.shields.io/badge/YAML-cb171e?logo=yaml&logoColor=white)](https://yaml.org/)
+[![Json](https://img.shields.io/badge/Json-000000?logo=json&logoColor=white)](https://www.json.org/)
+[![git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
+[![yarn](https://img.shields.io/badge/yarn-2c8ebb?logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![npm](https://img.shields.io/badge/npm-cb3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ### Learning
 
-![Java](https://img.shields.io/badge/Java-3a75b0?logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-3a75b0?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white)](https://go.dev/)
 
 ### 🚀 Featured
 
